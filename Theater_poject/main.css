@@ -1,0 +1,15 @@
+header{
+    background-image: url('theater-image-background.png') ;
+}
+
+.bg-color{
+    background-color: black;
+}
+
+.text-color{
+    color: azure;
+}
+
+.btn-color{
+    background-color: rgba(235,182,37,255) ;
+}
